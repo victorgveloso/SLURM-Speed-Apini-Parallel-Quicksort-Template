@@ -1,0 +1,5 @@
+bin/
+build/
+results/
+third_party/googletest/
+__pycache__/
