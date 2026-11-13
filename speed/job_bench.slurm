@@ -7,7 +7,6 @@
 #SBATCH --nodes=16
 #SBATCH --ntasks-per-node=1
 #SBATCH --cpus-per-task=1
-#SBATCH --exclusive                # nobody else on our nodes while timing
 #SBATCH --mem=4G
 #SBATCH --time=02:00:00
 
